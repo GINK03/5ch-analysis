@@ -86,7 +86,7 @@ soup = bs4.BeautifulSoup(html, 'html5lib')
  - ggrks
  - オワコン
  
-この計算は、`time_term_freq.py`で行うことができて、プログラムを変えることで再集計することができます。  
+この計算は、`time_term_freq.py`で行うことができて、プログラムを変えることで集める単語を変更することができ、再集計することができます。  
 
 
 ### htmlをjsonl化する
