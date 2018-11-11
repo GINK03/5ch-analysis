@@ -44,7 +44,7 @@ soup = bs4.BeautifulSoup(html, 'html5lib')
  - orz
  - 尊師
  - 香具師
- - '笑 '
+ - 笑(文末)
  - 初音ミク
  - 結月ゆかり
  - コードギアス
@@ -58,7 +58,7 @@ soup = bs4.BeautifulSoup(html, 'html5lib')
  - チラ裏
  - 今北産業
  - 禿同
- - 'w '
+ - w(文末)
  - メシウマ
  - まどマギ
  - ソシャゲ
