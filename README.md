@@ -78,7 +78,33 @@ $ python3 scan_items.py
 ```
  
 ### 結果
- 
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311751-fa0a8680-e5e7-11e8-9a58-7a29c43f2136.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311765-1a3a4580-e5e8-11e8-8345-b1b4c1f0cf5f.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311774-30480600-e5e8-11e8-9bc8-b2ff8da2c897.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311779-46ee5d00-e5e8-11e8-9180-b66f04ef1f69.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311785-5cfc1d80-e5e8-11e8-877d-189471126d88.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311790-71401a80-e5e8-11e8-9829-4647df976e2c.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311796-887f0800-e5e8-11e8-96d5-b4905611bcf3.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311802-a2204f80-e5e8-11e8-8a20-e6b333d78903.png">
+</div>
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311810-b49a8900-e5e8-11e8-9e42-f4316c9d1e3b.png">
+</div>
 # 参考
  - [1] [How do I fix wrongly nested / unclosed HTML tags?](https://stackoverflow.com/questions/293482/how-do-i-fix-wrongly-nested-unclosed-html-tags)
  - [2] [ネットスラングの一覧](https://dic.nicovideo.jp/a/%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0%E3%81%AE%E4%B8%80%E8%A6%A7)
