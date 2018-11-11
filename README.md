@@ -63,9 +63,6 @@ soup = bs4.BeautifulSoup(html, 'html5lib')
  - まどかマギカ 
  - まどマギ
  - ソシャゲ
- - FGO
- - 艦これ
- - エヴァ
  - ジワる
  - ナマポ
  - (ry
