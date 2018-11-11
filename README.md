@@ -16,6 +16,10 @@
 ```
 
 #### レガシーなhtmlフォーマットに対応する
+ Pythonのhtmlパーサーを前提に話しますが、旧2chのHTMLは正しいHTMLというわけでないようです。  
+ tableタグを多用するデザインが2017年度半ばまで主流だったようで、このときのタグに閉じるの対応なく、lxml, html.parserなどを使うと失敗します。  
+ そのため、一部の壊れたhtmlでもパースできるようにhtml5libパーサーを利用してパースすることができます[1]
+ 
 
 #### 並列アクセスを行う
  2chの過去ログは、一つ一つのサーバに名前がついていて、各サーバが異なったサブドメインを持っています。  
@@ -26,3 +30,6 @@
 ### htmlをjsonl化する
 
 ### 結果
+
+# 参考
+ - [1] [How do I fix wrongly nested / unclosed HTML tags?](https://stackoverflow.com/questions/293482/how-do-i-fix-wrongly-nested-unclosed-html-tags)
