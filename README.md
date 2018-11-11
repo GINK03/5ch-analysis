@@ -7,8 +7,13 @@
 5chの過去ログを過去18年ほどさかのぼって取得する方法と、懐かしいネットスラングのドキュメントに占める出現具合を時系列でカウントすることで、時代の変遷でどのように多くなったり少なくなったりしていったのか見ていきます。  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">文末に「orz」って付けたら若い人から「orzってなんですか？」と聞かれて心身共にorzみたいになってる</p>&mdash; ばんくし (@vaaaaanquish) <a href="https://twitter.com/vaaaaanquish/status/1053139872217624576?ref_src=twsrc%5Etfw">October 19, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div align="center">
+ <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311821-cda33a00-e5e8-11e8-83d8-2e8d3bd0df41.png">
+ <div>図1. 今回集計したorzの結果 </div>
+</div>
+例えば、今回集計した500GByte程度のログからではこのように2005年をピークに、書き込みの中で出てくる頻度がどんどん下がっています。  
+若い人がしらないのも、まぁ、といった感じのネットスラングのようです。
 
 ## 5chの過去ログをスクレイピングするには
 前々から5chのコーパスは欲しかったのですが、どこから、どうやって取得すればいいのかわからなかったのですが、なんとか確立した方法があるのでご紹介します。
