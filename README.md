@@ -10,6 +10,7 @@
 <div align="center">
   <img width="600px" src="https://user-images.githubusercontent.com/4949982/48311037-58ca0300-e5dc-11e8-93b7-b95144a20a2d.png">
 </div>
+<div align="center"> 図1. ドイツのフランクフルトからの路線図で幅優先探索をした場合(Wikipedia) </div>
 
 #### 起点となる一点を決める
  かねてから2chの全ログ取得は夢でしたが、様々な方法を検討しましたが、ログが保存されているURLの一覧が存在しないということで諦めていたのですが、ついに発見するに至りました。  
