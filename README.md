@@ -12,7 +12,7 @@
  以下のURLからアクセスすることができ、多くのスレの過去ログサーバを参照しています。  
  そのためここからアクセスすることで2chの過去ログをスクレイピングすることができます。  
 ```
- http://lavender.5ch.net/kakolog_servers.htm
+ http://lavender.5ch.net/kakolog_servers.html
 ```
 
 #### レガシーなhtmlフォーマットに対応する
