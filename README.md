@@ -132,6 +132,7 @@ $ python3 scan_items.py
 <div align="center">
  <img width="700px" src="https://user-images.githubusercontent.com/4949982/48311881-b4e75400-e5e9-11e8-9693-99529d0b7403.png">
 </div>
+
 # 参考
  - [1] [How do I fix wrongly nested / unclosed HTML tags?](https://stackoverflow.com/questions/293482/how-do-i-fix-wrongly-nested-unclosed-html-tags)
  - [2] [ネットスラングの一覧](https://dic.nicovideo.jp/a/%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0%E3%81%AE%E4%B8%80%E8%A6%A7)
