@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 from concurrent.futures import ProcessPoolExecutor as PPE
-
+import gzip
 import smart_open
 
 targets = ['orz', '尊師', '香具師', '笑 ', '初音ミク', '結月ゆかり', 'コードギアス', 'hshs', 'iphone','ソース', 'うｐ', '自宅警備員', 'ワンチャン', 'ステマ', '情弱', 'チラ裏', '今北産業', '禿同', 'w ', 'メシウマ' ,'まどかマギカ', 'まどマギ', 'ソシャゲ', 'FGO', '艦これ', 'エヴァ', 'ジワる', 'ナマポ', '(ry', 'ggrks', 'オワコン' ]
@@ -9,7 +9,7 @@ def pmap(arg):
 	key,path = arg
 	date_freq = {}
 	print(path)
-	fp = open(path)
+	fp = gzip.open(path, 'rt')
 	try:
 		for index, line in enumerate(fp):
 			#if index >= 500000:
