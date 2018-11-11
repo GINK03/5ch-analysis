@@ -60,7 +60,6 @@ soup = bs4.BeautifulSoup(html, 'html5lib')
  - 禿同
  - 'w '
  - メシウマ
- - まどかマギカ 
  - まどマギ
  - ソシャゲ
  - ジワる
@@ -69,9 +68,13 @@ soup = bs4.BeautifulSoup(html, 'html5lib')
  - ggrks
  - オワコン
 
-
 ### htmlをjsonl化する
-
+ スクレイピングしたhtmlをスレの内容を取り出し、jsonl(一行に一オブジェクトのjson)にしておくといろいろと集計が都合がよいです。  
+`scan_items.py`というプログラムでパースできるので、参考にしてください。 
+```console
+$ python3 scan_items.py
+```
+ 
 ### 結果
  
 # 参考
